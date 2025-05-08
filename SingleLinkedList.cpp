@@ -180,4 +180,22 @@ int main()
             else
             {
                 cout << endl
+                    << "Data ditemukan" << endl;
+                cout << "\nNo Mahasiswa: " << current->noMhs << endl;
+                cout << "\n";
+            }
+        }
+        break;
+        case '5':
+        {
+            exit(0);
+        }
+        break;
+        default:
+       
+        }
+    }
+}
+    
+    
             
