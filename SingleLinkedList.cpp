@@ -92,7 +92,4 @@ public:
         return true;
     }
 
-    void traverse()
-    {
-        if(listEmpty())
-        
+    
